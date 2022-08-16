@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EUNKONOWN09
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, ReactJs
 - 💞️ I’m looking to collaborate on Web Development Related Technologies
 - 📫 How to reach me ...
 
